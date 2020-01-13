@@ -1,1 +1,10 @@
 This is my demo file for learning Git basics. Hello world........
+
+
+git add .
+git init
+git config user.name "username"
+git config user.email "example@example.com"
+git commit -m "Commits"
+git remote add origin github profile link
+git push -u origin master
