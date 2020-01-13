@@ -15,3 +15,7 @@ For Update:
 git add .
 git commit -m "updated commit"
 git push origin master
+
+
+For Branch Selection:
+git checkout branch name
