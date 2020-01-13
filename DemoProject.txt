@@ -1,5 +1,6 @@
 This is my demo file for learning Git basics. Hello world........
 
+At initial:
 
 git add .
 git init
@@ -8,3 +9,9 @@ git config user.email "example@example.com"
 git commit -m "Commits"
 git remote add origin github profile link
 git push -u origin master
+
+
+For Update:
+git add .
+git commit -m "updated commit"
+git push origin master
