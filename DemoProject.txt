@@ -7,7 +7,7 @@ git init
 git config user.name "username"
 git config user.email "example@example.com"
 git commit -m "Commits"
-git remote add origin github profile link
+git remote add origin github profile link / git remote set-url origin github profilelink
 git push -u origin master
 
 
@@ -15,3 +15,6 @@ For Update:
 git add .
 git commit -m "updated commit"
 git push origin master
+
+
+For Pull:
