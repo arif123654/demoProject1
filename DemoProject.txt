@@ -18,3 +18,11 @@ git push origin master
 
 
 For Pull:
+
+
+
+For pod:
+sudo gem install cocoapods
+Pod init
+Open pod file
+Pod install
