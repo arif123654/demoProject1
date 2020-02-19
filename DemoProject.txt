@@ -26,3 +26,10 @@ sudo gem install cocoapods
 Pod init
 Open pod file
 Pod install
+
+For Pod Deinit:
+$ sudo gem install cocoapods-deintegrate cocoapods-clean
+$ pod deintegrate
+$ pod clean
+$ rm Podfile
+
